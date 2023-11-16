@@ -1,0 +1,1 @@
+This is the first project of the Odin Project's fundamentals course. It is meant to give me practice using HTML, linking between different pages, and use of images.
