@@ -11,6 +11,13 @@ h3 {
 
 h1 {
     font-size: 26px;
+    text-align: center;
+}
+
+img {
+    display:block;
+    margin: 36px auto;
+
 }
 
 h2,
@@ -22,16 +29,19 @@ p,
 li {
     font-size: 18px;
     font-family: cursive;
+    padding-left:  16px;
 }
 
 ul,
 ul li {
     background-color: bisque;
+    padding-top: 8px;
 }
 
 ol,
 ol li {
     background-color:blanchedalmond;
+    padding-top: 8px;
 }
 
 
